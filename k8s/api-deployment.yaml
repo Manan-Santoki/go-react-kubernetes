@@ -14,9 +14,9 @@ spec:
         spec:
             containers:
                 -   name: api
-                    image: uxioandrade/tutorial-api
+                    image: raptor1702/api
                     ports:
-                        -   containerPort: 8080
+                        -   containerPort: 8010
                     env:
                         -   name: PG_HOST
                             value: postgres-cluster-ip-service
