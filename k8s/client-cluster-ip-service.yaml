@@ -7,5 +7,5 @@ spec:
     selector:
         component: client
     ports:
-     -   port: 3000
-         targetPort: 3000
+     -   port: 3010
+         targetPort: 3010
