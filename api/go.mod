@@ -1,5 +1,5 @@
-module github.com/uxioandrade/go-react-kubernetes-tutorial
+module github.com/Manan-Santoki/go-react-kubernetes
 
 go 1.13
 
-require github.com/gin-gonic/gin v1.5.0
+require github.com/gin-gonic/gin v1.9.1
